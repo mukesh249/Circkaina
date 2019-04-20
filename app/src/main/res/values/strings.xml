@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Crickaina</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_poll">Polls</string>
+    <string name="title_recent">Recent</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_more">More</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="disclaimer">DISCLAIMER</string>
+    <string name="disclaimer_discription">Though our extensive knowledge about the system, and analysis about the same, we specialize in providing the users with Match Odds, as well as Sessions. We don\'t support betting and we not responsible for any unlawful acton taken by the user. the app is only meant for entertainment purposes. Any illegal activities done by the user is the sole responsibility of the user.</string>
+    <string name="okay">Okay</string>
+    <string name="batsmen">Batsmen</string>
+    <string name="bowlers">Bowlers</string>
+    <string name="all_rounders">All-Rounders</string>
+    <string name="teams">Teams</string>
+    <string name="rank">Rank</string>
+    <string name="player">Player</string>
+    <string name="points">Points</string>
+</resources>

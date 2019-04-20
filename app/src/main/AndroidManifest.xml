@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="advocosoft.com.cricket">
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="whateverString"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:appComponentFactory">
+        <activity android:name=".Activitys.Ranking"></activity>
+        <activity android:name=".Activitys.BrowsePlayer" />
+        <activity android:name=".Activitys.BrowseTeam" />
+        <activity android:name=".Activitys.NewsActivity" />
+        <activity
+            android:name=".Activitys.MainActivity"
+            android:label="@string/title_activity_main" />
+        <activity android:name=".Activitys.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
